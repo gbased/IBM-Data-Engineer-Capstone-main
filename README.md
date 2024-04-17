@@ -1,4 +1,4 @@
-# IBM_Data_Engineer_Capstone-
+# IBM_Data_Engineer_Capstone-Project
 Final project of the IBM Data Engineer course
 ![image](https://github.com/gbased/IBM_Data_Engineer_Capstone-main/assets/139152629/facff608-ca58-46c1-9eb6-19197653657e)
 
