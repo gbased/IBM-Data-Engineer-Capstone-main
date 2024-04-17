@@ -1,6 +1,7 @@
 # IBM_Data_Engineer_Capstone-Project
 Final project of the IBM Data Engineer course
-![image](https://github.com/gbased/IBM_Data_Engineer_Capstone-main/assets/139152629/facff608-ca58-46c1-9eb6-19197653657e)
+![image](https://github.com/gbased/IBM-Data-Engineer-Capstone-main/assets/139152629/4acc0ac3-5743-4dd5-b854-9514322c12fe)
+
 
 ## Environment
 This document introduces you to the data platform architecture of an ecommerce company named SoftCart.
